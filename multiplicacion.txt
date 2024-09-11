@@ -1,0 +1,22 @@
+Algoritmo: Iterativo Cúbico Tradicional - Archivos: datasets/matriz_aleatoria_8x8.txt y datasets/matriz_aleatoria_8x8.txt - Tiempo: 
+1.3765e-05 segundos.
+Algoritmo: Iterativo Cúbico Transpuesta - Archivos: datasets/matriz_aleatoria_8x8.txt y datasets/matriz_aleatoria_8x8.txt - Tiempo: 
+1.2063e-05 segundos.
+Algoritmo: Strassen - Archivos: datasets/matriz_aleatoria_8x8.txt y datasets/matriz_aleatoria_8x8.txt - Tiempo: 0.000982717 segundos.
+Algoritmo: Iterativo Cúbico Tradicional - Archivos: datasets/matriz_aleatoria_8x8.txt y datasets/matriz_aleatoria_8x16.txt - Tiempo: 2.0278e-05 segundos.
+Algoritmo: Iterativo Cúbico Transpuesta - Archivos: datasets/matriz_aleatoria_8x8.txt y datasets/matriz_aleatoria_8x16.txt - Tiempo: 2.112e-05 segundos.
+Algoritmo: Strassen - Archivos: datasets/matriz_aleatoria_8x8.txt y datasets/matriz_aleatoria_8x16.txt - Tiempo: 0.000996051 segundos.
+Algoritmo: Iterativo Cúbico Tradicional - Archivos: datasets/matriz_aleatoria_64x64.txt y datasets/matriz_aleatoria_64x64.txt - Tiempo: 0.00403872 segundos.
+Algoritmo: Iterativo Cúbico Transpuesta - Archivos: datasets/matriz_aleatoria_64x64.txt y datasets/matriz_aleatoria_64x64.txt - Tiempo: 0.0035036 segundos.
+Algoritmo: Strassen - Archivos: datasets/matriz_aleatoria_64x64.txt y datasets/matriz_aleatoria_64x64.txt - Tiempo: 0.321565 segundos.
+Algoritmo: Iterativo Cúbico Tradicional - Archivos: datasets/matriz_aleatoria_64x64.txt y datasets/matriz_aleatoria_64x128.txt - Tiempo: 0.00925821 segundos.
+Algoritmo: Iterativo Cúbico Transpuesta - Archivos: datasets/matriz_aleatoria_64x64.txt y datasets/matriz_aleatoria_64x128.txt - Tiempo: 0.00693982 segundos.
+Algoritmo: Strassen - Archivos: datasets/matriz_aleatoria_64x64.txt y datasets/matriz_aleatoria_64x128.txt - Tiempo: 0.338729 segundos.
+Algoritmo: Iterativo Cúbico Tradicional - Archivos: datasets/matriz_aleatoria_1024x1024.txt y datasets/matriz_aleatoria_1024x1024.txt - Tiempo: 15.1515 segundos.
+Algoritmo: Iterativo Cúbico Transpuesta - Archivos: datasets/matriz_aleatoria_1024x1024.txt y datasets/matriz_aleatoria_1024x1024.txt - Tiempo: 14.3649 segundos.
+Algoritmo: Strassen - Archivos: datasets/matriz_aleatoria_1024x1024.txt y datasets/matriz_aleatoria_1024x1024.txt - Tiempo: 843.541 
+segundos.
+Algoritmo: Iterativo Cúbico Tradicional - Archivos: datasets/matriz_aleatoria_1024x1024.txt y datasets/matriz_aleatoria_1024x2048.txt - Tiempo: 47.2131 segundos.
+Algoritmo: Iterativo Cúbico Transpuesta - Archivos: datasets/matriz_aleatoria_1024x1024.txt y datasets/matriz_aleatoria_1024x2048.txt - Tiempo: 38.1348 segundos.
+Algoritmo: Strassen - Archivos: datasets/matriz_aleatoria_1024x1024.txt y datasets/matriz_aleatoria_1024x2048.txt - Tiempo: 1141.46 
+segundos.
